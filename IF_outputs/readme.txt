@@ -1,1 +1,1 @@
-These files are temporarily hosted for to support the submission of a final report. 
+These files are temporarily hosted to support the submission of a final report. 
